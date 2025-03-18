@@ -1,0 +1,21 @@
+/* Especificadade
+    Cada seletor tem um peso
+    soma dos pesos faz a declaracao
+ser aplicada
+
+    #id - 100
+    .class - 10
+    element - 1
+*/
+
+#text {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+p {
+    color: red;
+}

@@ -1,0 +1,24 @@
+/*
+    - type | element | tag
+    - id
+    - class
+    - atributo
+    - universal
+*/
+
+/* type */
+p {
+    color: violet;
+}
+/* id */
+#text {
+    color: black;
+}
+/* class */
+.pink {
+    color: pink;
+}
+/* atributo */
+[title="t"] {
+    color: blue;
+}
