@@ -1,0 +1,12 @@
+p { 
+    color: red;
+    text-transform: uppercase;
+    /* text-transform: lowercase; */
+    /* text-transform: capitalize; */
+
+}
+
+a {
+    text-decoration: line-through red wavy;
+    /* text-decoration: none; */
+}

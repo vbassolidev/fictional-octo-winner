@@ -1,0 +1,6 @@
+.margin {
+    margin: 10px 20px 30px 40px;
+    /* margin-top / margin-left / margin-bottom / 
+        marign-right (um dos cantos) */
+    /* margin: auto; (centralizar) */
+}
