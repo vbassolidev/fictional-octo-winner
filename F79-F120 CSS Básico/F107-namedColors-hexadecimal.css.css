@@ -1,0 +1,13 @@
+/* 
+    RGB Hexadecimal (0 - F)
+    #f09 - RGB
+    #ff0099 - RRGGBB
+    #ff0099cc - RRGGBBAA
+*/
+
+p {
+    /* color: red; (named color) */
+    /* color: #ff49b6; */
+    /* color: #f09a; */
+    color: #ff00c8cc;
+}

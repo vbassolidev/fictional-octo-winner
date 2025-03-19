@@ -1,0 +1,6 @@
+body {
+    /* background-position-x: right; */
+    /* background-position-y: center; */
+    background-position: center bottom;
+    background-size: 200px; /* 100%, 1rem, cover,*/
+}
